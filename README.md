@@ -14,12 +14,12 @@ I am a dedicated professional with deep expertise in blockchain development, sma
 
 ## 🌐 Socials
 - **Email:** [muzamil.chouhaan@gmail.com](mailto:muzamil.chouhaan@gmail.com)
-- **LinkedIn:** [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muzamil-chouhan-32a518351/))
+- **LinkedIn:** [LinkedIn Profile]([https://linkedin.com/in/muzamil-chouhan-32a518351/])
 - **Twitter:** [@your-handle](https://twitter.com/your-handle)
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Experties
 
 **🔥 Primary Languages & Frameworks**
 
