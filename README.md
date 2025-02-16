@@ -71,7 +71,7 @@ I am a dedicated professional with deep expertise in blockchain development, sma
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Quote" />
 </p>
